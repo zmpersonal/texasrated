@@ -1,0 +1,2 @@
+name,primary_market,categories,address,city,state,zip,phone,rating,reviews,claimed,verified,profile_strength,website,independent,services,description,source,source_updated,markets,external_id,slug
+Example Service Co,Austin,HVAC,,Austin,TX,,,4.8,125,false,false,0,,,,,Public business listing snapshot,2026-08-28,Austin|North Austin,provider-12345,
