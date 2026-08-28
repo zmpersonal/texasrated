@@ -1,5 +1,5 @@
 # TexasRated.com — real-data static build
-
+Cloudflare redeploy
 GitHub / Cloudflare-ready static site for **Texas Rated**.
 
 ## What changed
